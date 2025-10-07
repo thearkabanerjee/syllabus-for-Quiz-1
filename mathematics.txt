@@ -10,4 +10,5 @@ the syllabus for the Mathematics II Quiz 1 is listed below:
 2. Solving Linear Equations -
     * Determinants (part 3)
     * Cramer's Rule
+    * "Solutions to a system of Linear Equations with an invertible coefficient matrix"
     * 
