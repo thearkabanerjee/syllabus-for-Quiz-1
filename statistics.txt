@@ -7,3 +7,5 @@ Week 1: Multiple Random Variables -
 Week 2: Mutiple random variables:
     * Independence
     * Functions of random variables
+        * Visualization
+        * 
