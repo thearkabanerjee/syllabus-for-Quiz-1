@@ -7,3 +7,4 @@ Week 2:
     * Conditionals
 
 Week 3:
+    * Conditionals (Continued)
