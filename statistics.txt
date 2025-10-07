@@ -17,3 +17,5 @@ Week 3:
     * Variance and standard deviation
     * Covariance and correlation
     * Inequalities
+
+Week 4:
