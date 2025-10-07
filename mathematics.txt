@@ -25,3 +25,4 @@ the syllabus for the Mathematics II Quiz 1 is listed below:
 4. Basis and Dimension -
     * What is a basis for a vector space ?
     * Finding bases for vector spaces
+    * What is the rank/ dimension for a vector space?
