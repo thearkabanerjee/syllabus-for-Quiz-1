@@ -2,3 +2,4 @@ the syllabus for the Statistics II Quiz 1 is listed below:
 
 Week 1: Multiple Random Variables -
     * Two random variables
+    * Multiple random variables and distributions
