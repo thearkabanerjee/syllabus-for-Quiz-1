@@ -18,4 +18,6 @@ Week 3:
     * Covariance and correlation
     * Inequalities
 
-Week 4:
+Week 4: 
+    * Continuous random variables -
+        * Discrete vs 
