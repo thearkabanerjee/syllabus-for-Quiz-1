@@ -19,3 +19,4 @@ the syllabus for the Mathematics II Quiz 1 is listed below:
     * Introduction to Vector Spaces
     * Some properties of vector spaces
     * Linear dependence
+    * Linear Independence
