@@ -16,3 +16,4 @@ Week 3:
     * Scatter plots and spread
     * Variance and standard deviation
     * Covariance and correlation
+    * Inequalities
