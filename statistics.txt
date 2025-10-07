@@ -10,3 +10,4 @@ Week 2: Mutiple random variables:
         * Visualization
         * Functions of multiple random variables
 
+Week 3:
