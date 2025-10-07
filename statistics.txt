@@ -23,3 +23,4 @@ Week 4:
         * Discrete vs Continuous
     * Weight Data
     * Density Functions
+    * Expectations
