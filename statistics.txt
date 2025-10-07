@@ -13,4 +13,5 @@ Week 2: Mutiple random variables:
 Week 3:
     * Expectations Casino math
     * Expected value of a random variable
+    * Scatter plots and spread
     
