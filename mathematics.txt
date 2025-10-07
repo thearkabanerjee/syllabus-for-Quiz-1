@@ -14,3 +14,7 @@ the syllabus for the Mathematics II Quiz 1 is listed below:
     * The Echelon form
     * Row reduction
     * The Gaussian elimination method
+
+3. Introduction to Vector Spaces -
+    * Introduction to Vector Spaces
+    
