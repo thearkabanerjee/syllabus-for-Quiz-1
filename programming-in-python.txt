@@ -2,4 +2,5 @@ the syllabus for the Programming in Python Quiz 1 is listed below:
 
 Week 1:
     * Introduction to algorithms
-    
+
+Week 2:
