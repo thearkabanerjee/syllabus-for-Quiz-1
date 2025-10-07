@@ -15,7 +15,7 @@ Week 2. Solving Linear Equations -
     * Row reduction
     * The Gaussian elimination method
 
-3. Introduction to Vector Spaces -
+Week 3. Introduction to Vector Spaces -
     * Introduction to Vector Spaces
     * Some properties of vector spaces
     * Linear dependence
