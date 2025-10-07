@@ -12,3 +12,5 @@ the syllabus for the Mathematics II Quiz 1 is listed below:
     * Cramer's Rule
     * "Solutions to a system of Linear Equations with an invertible coefficient matrix"
     * The Echelon form
+    * Row reduction
+    * The Gaussian elimination method
