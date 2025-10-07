@@ -23,3 +23,5 @@ the syllabus for the Mathematics II Quiz 1 is listed below:
     * Linear Independence - Part 2
 
 4. Basis and Dimension -
+    * What is a basis for a vector space ?
+    
