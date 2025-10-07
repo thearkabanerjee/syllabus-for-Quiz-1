@@ -1,3 +1,8 @@
 the syllabus for the Mathematics II Quiz 1 is listed below:
 
-1. 
+1. Vectors and Matrices - 
+    * Vectors
+    * Matrices
+    * Systems of Linear Equations
+    * Determinants (part 1)
+    * Determinants (part 2)
