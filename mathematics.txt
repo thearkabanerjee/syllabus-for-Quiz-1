@@ -1,6 +1,6 @@
 the syllabus for the Mathematics II Quiz 1 is listed below:
 
-1. Vectors and Matrices - 
+Week 1. Vectors and Matrices - 
     * Vectors
     * Matrices
     * Systems of Linear Equations
