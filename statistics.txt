@@ -20,4 +20,4 @@ Week 3:
 
 Week 4: 
     * Continuous random variables -
-        * Discrete vs 
+        * Discrete vs Continuous
