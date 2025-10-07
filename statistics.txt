@@ -15,3 +15,4 @@ Week 3:
     * Expected value of a random variable
     * Scatter plots and spread
     * Variance and standard deviation
+    * Covariance and correlation
